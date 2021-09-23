@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head> 
+<title> One Piece </title>
+</head>
+<body>
+<h1>My opinion</h1>
+<p>One Piece is the best anime i ever watched hehe </p>
+<h2>Naruto</h2>
+<p> 2nd best anime</p>
+</body>
+
+
+
+
+
+
+
+
+
+</html>

@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head> </head>
+
+<body>
+
+<ul>
+ <li> <a href="#Oof">Oof Section </a>      </li>
+ <li> <a href="#niku enduku">niku enduku Section </a>      </li>
+<!-- using "#" in href creates a navigation secion to the name we provided within the link-->
+</ul>
+
+<br>
+<br>
+<br>
+
+
+<p> <a name="Oof"> This is not an article. </a> </p>
+<!-- using <a name is the section where we get navigated from the above section> 
+</body>
+
+
+
+</html>

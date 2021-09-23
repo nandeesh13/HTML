@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head> </head>
+<body> 
+<h1> House </h1>
+
+<p> <img src="phone.jpg"> </p>
+
+<!-- to add image we use "<img src" command-->
+</body>
+
+
+
+
+
+</html>
